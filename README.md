@@ -1,8 +1,23 @@
 <img width="5270" height="3453" alt="shre" src="https://github.com/user-attachments/assets/a3e3b0d9-5d7d-43da-a46b-5e7418147e0c" />
 -Netflix Headquarters, Los Angeles — Sunset Boulevard
 
+<h1 align="center">👨🏻‍💻Netflix-Movies-and-TV-Shows-SQL Analysis</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Data%20Analyst-378ADD?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Type-End--to--End%20Project-9B59B6?style=flat-square"/>
+</p>
 
-# Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL
+
+
 This project analyzes Netflix movies and TV shows data using SQL to solve real business problems and extract actionable insights that support content strategy and decision-making.
 
 ---
