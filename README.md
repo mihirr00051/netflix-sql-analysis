@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-Data%20Analyst-378ADD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Entertainment / Streaming Analytics-378ADD?style=flat-square"/>
     <img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Type-End--to--End%20Project-9B59B6?style=flat-square"/>
 </p>
