@@ -111,7 +111,9 @@ netflix-sql-analysis/
 
 **Your Name**  
 📧 Email: mihirofficial33.edu@gmail.com 
+
 💼 LinkedIn: [linkedin.com/in/mihirr51](https://linkedin.com/in/mihirr51)  
+
 🐙 GitHub: [github.com/mihirr00051](https://github.com/mihirr00051)
 
 ---
