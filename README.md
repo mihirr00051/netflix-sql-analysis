@@ -107,7 +107,7 @@ netflix-sql-analysis/
 
 ---
 
-## 👤 Author
+## 👨🏻‍💻 Author
 
 **Your Name**  
 📧 Email: mihirofficial33.edu@gmail.com 
